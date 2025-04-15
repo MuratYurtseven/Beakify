@@ -1,0 +1,24 @@
+{
+  "originHash" : "1c453e51dbda47764f4b80cdc74502aeba4683130e6d3601b840bea5e393675f",
+  "pins" : [
+    {
+      "identity" : "lottie-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/airbnb/lottie-ios.git",
+      "state" : {
+        "revision" : "047aa81b77adcbf583a966dfef620d17650cc656",
+        "version" : "4.5.1"
+      }
+    },
+    {
+      "identity" : "purchases-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/RevenueCat/purchases-ios.git",
+      "state" : {
+        "revision" : "56f136a1385a2fe17998d0b34b3db26debeb8ec4",
+        "version" : "5.2.2"
+      }
+    }
+  ],
+  "version" : 3
+}

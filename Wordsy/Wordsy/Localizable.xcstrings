@@ -1,0 +1,640 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "%@" : {
+
+    },
+    "%@ %@" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$@ %2$@"
+          }
+        }
+      }
+    },
+    "%lld" : {
+
+    },
+    "%lld of %lld words" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "%1$lld of %2$lld words"
+          }
+        }
+      }
+    },
+    "%lld selected" : {
+
+    },
+    "%lld word" : {
+
+    },
+    "%lld words" : {
+
+    },
+    "%lld words in this group" : {
+
+    },
+    "%lld%%" : {
+
+    },
+    "•" : {
+
+    },
+    "+%lld more" : {
+
+    },
+    "🗣 %@" : {
+
+    },
+    "3 DAYS FREE" : {
+
+    },
+    "Add All to Learning" : {
+
+    },
+    "Add at least 3 words to this group to start a quiz." : {
+
+    },
+    "Add Group" : {
+
+    },
+    "Add to %@" : {
+
+    },
+    "Add to Group" : {
+
+    },
+    "Add to Groups" : {
+
+    },
+    "Add Words" : {
+
+    },
+    "Add words to see your progress" : {
+
+    },
+    "Added on %@" : {
+
+    },
+    "Added to %@" : {
+
+    },
+    "Any Language" : {
+
+    },
+    "Any Type" : {
+
+    },
+    "Are you sure you want to delete '%@'? This action cannot be undone." : {
+
+    },
+    "Auto-generate examples" : {
+
+    },
+    "Beakify" : {
+
+    },
+    "BEST VALUE" : {
+
+    },
+    "Billed annually" : {
+
+    },
+    "Billed weekly" : {
+
+    },
+    "CAN'T LISTEN NOW" : {
+
+    },
+    "Category" : {
+
+    },
+    "Change Group" : {
+
+    },
+    "Chat" : {
+
+    },
+    "Choose a Topic" : {
+
+    },
+    "Choose a Topic:" : {
+
+    },
+    "Choose Word Group" : {
+
+    },
+    "Choose Your Languages" : {
+
+    },
+    "Choose your practice language:" : {
+
+    },
+    "Clear All" : {
+
+    },
+    "Clear all filters" : {
+
+    },
+    "Color" : {
+
+    },
+    "Continue" : {
+
+    },
+    "CONTINUE" : {
+
+    },
+    "Continue to Premium" : {
+
+    },
+    "Continue without subscribing" : {
+
+    },
+    "Create" : {
+
+    },
+    "Create Group" : {
+
+    },
+    "Create word groups to organize your vocabulary and take targeted quizzes" : {
+
+    },
+    "Create your first group to organize your words." : {
+
+    },
+    "Creating your\npersonalized learning plan" : {
+
+    },
+    "Date" : {
+
+    },
+    "Definitions" : {
+
+    },
+    "Delete" : {
+
+    },
+    "Delete Group" : {
+
+    },
+    "Description (Optional)" : {
+
+    },
+    "Dismiss info card" : {
+
+    },
+    "Done" : {
+
+    },
+    "Double tap to manage word filters" : {
+
+    },
+    "Edit" : {
+
+    },
+    "Edit Group" : {
+
+    },
+    "Enter word" : {
+
+    },
+    "Enter your name" : {
+
+    },
+    "Example Sentences" : {
+
+    },
+    "Favorite" : {
+
+    },
+    "Filter" : {
+
+    },
+    "Filter Words" : {
+
+    },
+    "Finalizing your learning journey..." : {
+
+    },
+    "Gender" : {
+
+    },
+    "Go back" : {
+
+    },
+    "Go Back" : {
+
+    },
+    "Group" : {
+
+    },
+    "Group by Language" : {
+
+    },
+    "Group Information" : {
+
+    },
+    "Group Name" : {
+
+    },
+    "Grouping" : {
+
+    },
+    "Hello %@! 👋" : {
+
+    },
+    "Home" : {
+
+    },
+    "How often would you like to learn?" : {
+
+    },
+    "How often would you like to review vocabulary?" : {
+
+    },
+    "Language" : {
+
+    },
+    "Language & Profile" : {
+
+    },
+    "Language and Profile Settings" : {
+
+    },
+    "Language Preference" : {
+
+    },
+    "Language Settings" : {
+
+    },
+    "Learning" : {
+
+    },
+    "Learning Progress" : {
+
+    },
+    "Learning Status" : {
+
+    },
+    "Loading" : {
+
+    },
+    "Loading statistics..." : {
+
+    },
+    "Loading subscription options..." : {
+
+    },
+    "Mastered" : {
+
+    },
+    "Meaning" : {
+
+    },
+    "My Words" : {
+
+    },
+    "New" : {
+
+    },
+    "New Group" : {
+
+    },
+    "New Word" : {
+
+    },
+    "No compatible groups found for the current language" : {
+
+    },
+    "No data for selected period" : {
+
+    },
+    "No example sentences yet. Tap the refresh button to generate examples." : {
+
+    },
+    "No groups created yet" : {
+
+    },
+    "No Groups Yet" : {
+
+    },
+    "No languages found" : {
+
+    },
+    "No matching words found" : {
+
+    },
+    "No Topic" : {
+
+    },
+    "No Word Groups" : {
+
+    },
+    "No Words in This Group" : {
+
+    },
+    "Not Enough Words" : {
+
+    },
+    "OK" : {
+
+    },
+    "Open filters" : {
+
+    },
+    "Overview" : {
+
+    },
+    "Please wait while we load your preferences..." : {
+
+    },
+    "Practice Language" : {
+
+    },
+    "Practice Language:" : {
+
+    },
+    "Preferred Translation Language" : {
+
+    },
+    "Preparing your quiz..." : {
+
+    },
+    "Privacy Policy" : {
+
+    },
+    "Processing your subscription..." : {
+
+    },
+    "Profile Information" : {
+
+    },
+    "Question %lld of %lld" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "Question %1$lld of %2$lld"
+          }
+        }
+      }
+    },
+    "Quiz" : {
+
+    },
+    "Quiz Completed!" : {
+
+    },
+    "Rate" : {
+
+    },
+    "Remove filter" : {
+
+    },
+    "Reset All Filters" : {
+
+    },
+    "Restore Purchases" : {
+
+    },
+    "Return to Group" : {
+
+    },
+    "Save" : {
+
+    },
+    "Save All Sentences" : {
+
+    },
+    "Save Changes" : {
+
+    },
+    "Save Word" : {
+
+    },
+    "Saved" : {
+
+    },
+    "Saving..." : {
+
+    },
+    "Search languages" : {
+
+    },
+    "Search words" : {
+
+    },
+    "Select" : {
+
+    },
+    "Select a language" : {
+
+    },
+    "Select a Topic" : {
+
+    },
+    "Select Group" : {
+
+    },
+    "Select Language" : {
+
+    },
+    "Select the languages you want to learn" : {
+
+    },
+    "Select Type" : {
+
+    },
+    "Settings" : {
+
+    },
+    "Skip" : {
+
+    },
+    "Something went wrong" : {
+
+    },
+    "Start Chat" : {
+
+    },
+    "Start Free Trial" : {
+
+    },
+    "Start Now" : {
+
+    },
+    "Start Quiz" : {
+
+    },
+    "Start your fitness journey" : {
+
+    },
+    "Starting translation..." : {
+
+    },
+    "Statistics" : {
+
+    },
+    "Subscribe Now" : {
+
+    },
+    "Subscribe to unlock all features" : {
+
+    },
+    "Subscription Error" : {
+
+    },
+    "Take a Quiz" : {
+
+    },
+    "Take Another Quiz" : {
+
+    },
+    "Tap + to add words to this group" : {
+
+    },
+    "Tap for translation" : {
+
+    },
+    "Tell Us About Yourself" : {
+
+    },
+    "Tell us how you prefer to learn" : {
+
+    },
+    "Terms" : {
+
+    },
+    "Terms of Service" : {
+
+    },
+    "Test your knowledge" : {
+
+    },
+    "This helps us personalize your experience" : {
+
+    },
+    "This word is not in any group" : {
+
+    },
+    "Today's Activity" : {
+
+    },
+    "Topic Category:" : {
+
+    },
+    "Translate responses to:" : {
+
+    },
+    "Translating to %@..." : {
+
+    },
+    "Translating..." : {
+
+    },
+    "Translation" : {
+
+    },
+    "Translation Language" : {
+
+    },
+    "Translation Language:" : {
+
+    },
+    "Try adjusting your search or filters to find what you're looking for." : {
+
+    },
+    "Try Again" : {
+
+    },
+    "Try free for 3 days" : {
+
+    },
+    "Type a message..." : {
+
+    },
+    "Unlock all premium features" : {
+
+    },
+    "Upgrade to Premium" : {
+
+    },
+    "Watch this short video to see how our app works" : {
+
+    },
+    "Welcome to " : {
+
+    },
+    "What kind of content do you enjoy?" : {
+
+    },
+    "Which languages would you like to learn?" : {
+
+    },
+    "Word" : {
+
+    },
+    "Word Details" : {
+
+    },
+    "Word Groups" : {
+
+    },
+    "Word Type" : {
+
+    },
+    "words" : {
+
+    },
+    "Words" : {
+
+    },
+    "Words to Review" : {
+
+    },
+    "words." : {
+
+    },
+    "Wordsy" : {
+
+    },
+    "Wordsy Chat" : {
+
+    },
+    "You added " : {
+
+    },
+    "You got %lld out of %lld questions correct" : {
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "You got %1$lld out of %2$lld questions correct"
+          }
+        }
+      }
+    },
+    "Your Country" : {
+
+    },
+    "Your Learning Style" : {
+
+    },
+    "Your Name" : {
+
+    },
+    "Your personalized plan includes:" : {
+
+    },
+    "Your Words" : {
+
+    }
+  },
+  "version" : "1.0"
+}
